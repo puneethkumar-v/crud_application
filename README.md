@@ -61,6 +61,13 @@
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+=======
+>>>>>>> 21fcafef01da654ed652b88adbf7da5f4c066c8d
+>>>>>>> 11c080c732028598e1981e8d2d97937f4d39a7c6
   </ol>
 </details>
 
@@ -154,6 +161,10 @@ Puneeth Kumar V - [@puneethkumar\_\_v](https://twitter.com/puneethkumar__v) - [p
 Project Link: [https://github.com/puneethkumar-v/crud_application](https://github.com/puneethkumar-v/crud_application)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 11c080c732028598e1981e8d2d97937f4d39a7c6
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -171,3 +182,8 @@ Project Link: [https://github.com/puneethkumar-v/crud_application](https://githu
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 21fcafef01da654ed652b88adbf7da5f4c066c8d
+>>>>>>> 11c080c732028598e1981e8d2d97937f4d39a7c6
